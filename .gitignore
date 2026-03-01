@@ -1,0 +1,10 @@
+﻿data/
+results/
+reports/
+models/
+*.pkl
+*.npy
+*.zip
+*.pdf
+__pycache__/
+.ipynb_checkpoints/
